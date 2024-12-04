@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7978","should navigate to Cliffhanger URL and verify the page loads","e2e-tests","Tue Dec 03 17:52:35 IST 2024","passed","Tue Dec 03 17:52:43 IST 2024","","tests\testscripts\cliffhangerlaunch.spec.ts","",""
+"","5784","should interact with elements on the Cliffhanger page","Allure Reports","Wed Dec 04 12:32:36 IST 2024","passed","Wed Dec 04 12:32:42 IST 2024","","tests\testscripts\cliffhangerlaunch.spec.ts","",""
+"","6449","should interact with elements on the Cliffhanger page","e2e-tests","Tue Dec 03 17:52:43 IST 2024","passed","Tue Dec 03 17:52:49 IST 2024","","tests\testscripts\cliffhangerlaunch.spec.ts","",""
+"","6339","should navigate to Cliffhanger URL and verify the page loads","Allure Reports","Wed Dec 04 12:32:30 IST 2024","passed","Wed Dec 04 12:32:36 IST 2024","","tests\testscripts\cliffhangerlaunch.spec.ts","",""

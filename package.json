@@ -1,0 +1,41 @@
+{
+  "name": "growth99",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/dotenv": "^6.1.1",
+    "@types/jest": "29.5.14",
+    "@types/node": "^22.10.1",
+    "@wdio/allure-reporter": "^9.2.14",
+    "allure-playwright": "^3.0.6",
+    "playwright": "^1.49.0",
+    "typescript": "5.7.2"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.tsx?$": "ts-jest"
+    },
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
